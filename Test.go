@@ -1,5 +1,5 @@
 package Test
 
-func SayHello(name string) string {
-	return "Hello " + name
+func SayHello(name string, age int) string {
+	return "Hello my name is " + name
 }
